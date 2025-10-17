@@ -4,6 +4,13 @@ Discover your next favorite film with a smart and beautiful Streamlit-powered we
 
 ---
 
+## 🌟 Live Demo
+
+**Check out the website:**  
+[https://movie-recommender-system015.streamlit.app/](https://movie-recommender-system015.streamlit.app/)
+
+---
+
 ## ✨ What It Does
 
 - **Personalized Recommendations:** Suggests movies based on description, content tags, and similarity.
@@ -26,10 +33,12 @@ Discover your next favorite film with a smart and beautiful Streamlit-powered we
 
 Clone the repository and run locally:
 
+
 git clone https://github.com/Nitin0015/movie-recommender-streamlit.git
 cd movie-recommender-streamlit
 pip install -r requirements.txt
 streamlit run app.py
+
 
 
 ---
